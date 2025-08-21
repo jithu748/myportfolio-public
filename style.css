@@ -92,4 +92,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.img{
+    border-radius: 100px;
+}
 
+.flex-row {
+    display: flex;
+}

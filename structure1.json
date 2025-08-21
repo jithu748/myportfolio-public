@@ -1,0 +1,72 @@
+{
+  "name": "myportfolio",
+  "path": "d:\\myportfolio",
+  "type": "directory",
+  "children": [
+    {
+      "name": "My Profile",
+      "type": "directory",
+      "path": "d:\\myportfolio\\My Profile",
+      "children": [],
+      "icon": "📁"
+    },
+    {
+      "name": "cat.jpg",
+      "type": "file",
+      "path": "d:\\myportfolio\\cat.jpg",
+      "icon": "🖼️"
+    },
+    {
+      "name": "css.jpg",
+      "type": "file",
+      "path": "d:\\myportfolio\\css.jpg",
+      "icon": "🖼️"
+    },
+    {
+      "name": "html.jpg",
+      "type": "file",
+      "path": "d:\\myportfolio\\html.jpg",
+      "icon": "🖼️"
+    },
+    {
+      "name": "index.html",
+      "type": "file",
+      "path": "d:\\myportfolio\\index.html",
+      "icon": "🌐"
+    },
+    {
+      "name": "jithu.jpg",
+      "type": "file",
+      "path": "d:\\myportfolio\\jithu.jpg",
+      "icon": "🖼️"
+    },
+    {
+      "name": "js.jpg",
+      "type": "file",
+      "path": "d:\\myportfolio\\js.jpg",
+      "icon": "🖼️"
+    },
+    {
+      "name": "python.jpg",
+      "type": "file",
+      "path": "d:\\myportfolio\\python.jpg",
+      "icon": "🖼️"
+    },
+    {
+      "name": "skills.html",
+      "type": "file",
+      "path": "d:\\myportfolio\\skills.html",
+      "icon": "🌐"
+    },
+    {
+      "name": "style.css",
+      "type": "file",
+      "path": "d:\\myportfolio\\style.css",
+      "icon": "🎨"
+    }
+  ],
+  "generated": "2025-08-15T08:40:31.126Z",
+  "generator": "FileTree Pro Extension",
+  "note": "Common build folders, dependencies, and temporary files are automatically excluded.",
+  "showIcons": true
+}
